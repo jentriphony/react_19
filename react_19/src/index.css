@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+main {
+  margin-top: 8rem;
+  text-align: center;
+}
